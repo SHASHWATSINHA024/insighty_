@@ -12,7 +12,7 @@ A comprehensive MERN stack application that aggregates and displays real-time tr
 - **Fallback Content**: Predefined datasets when APIs are unavailable
 - **Responsive Design**: Works seamlessly on desktop and mobile devices
 - **Modern UI**: Built with React, Framer Motion, and modern CSS
-![image1](photo.jpeg)
+![screenshot](display.jpeg)
 ## 🛠️ Tech Stack
 
 ### Backend
